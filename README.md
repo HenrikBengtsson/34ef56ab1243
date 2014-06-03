@@ -31,7 +31,7 @@ s <- "Hello world!"
 ```
 
 Below is a bit of BlaBlaBla syntax:
-```blablabla
+```blabla
 x <- 1
 x <- x + 1
 s <- "Hello world!"
