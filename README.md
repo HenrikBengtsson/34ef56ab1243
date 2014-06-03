@@ -30,8 +30,8 @@ x <- x + 1
 s <- "Hello world!"
 ```
 
-Below is a bit of BlaBlaBla syntax:
-```blabla
+Below is a bit of RR syntax:
+```rr
 x <- 1
 x <- x + 1
 s <- "Hello world!"
