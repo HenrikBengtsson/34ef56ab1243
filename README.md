@@ -17,7 +17,7 @@ s <- "Hello world!"
 ```
 
 Below is a bit of R syntax:
-```R
+```{r}
 x <- 1
 x <- x + 1
 s <- "Hello world!"
