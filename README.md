@@ -16,6 +16,13 @@ x <- x + 1
 s <- "Hello world!"
 ```
 
+Below is a bit of R syntax:
+```R
+x <- 1
+x <- x + 1
+s <- "Hello world!"
+```
+
 Below is a bit of Ruby syntax:
 ```ruby
 x <- 1
